@@ -8,9 +8,9 @@ The answer it produces for the number of 48x10 panels that can be built within t
 
 Notably, I've never used Java professionally and hadn't written it since 2006 until this assignment! However, athena wouldn't accept a submission using my choices at the time, C# or VB.NET.
 
-It was relatively simple to come up with an initial solution that produced the right answers, but was far too slow to arrive at the answer to the number of 48x10 panels that can be built. The final solution required coming up with an interesting solution! (see Step 3 in the code)
+It was relatively simple to come up with an initial solution that produced the right answers to inputs up to 27x5, but was far too slow to arrive at the answer to the number of 48x10 panels that can be built. The final solution required coming up with an interesting solution! (see Step 3 in the code)
 
 ### To run
 
     javac GarberBlockCalc.java
-    java GarberBlockCalc
+    java GarberBlockCalc 48 10
