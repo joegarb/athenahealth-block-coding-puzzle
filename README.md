@@ -4,7 +4,7 @@ This was my submission to athenahealth for a job interview in May 2012. I found 
 
 The answer it produces for the number of 48x10 panels that can be built within the parameters of the puzzle is 806844323190414 (806.8 trillion), computed within 100 milliseconds.
 
-**Puzzle description**: athena Block Coding Puzzle-2012.pdf
+[**Puzzle description**](athena%20Block%20Coding%20Puzzle-2012.pdf)
 
 Notably, I've never used Java professionally and hadn't written it since 2006 until this assignment! However, athena wouldn't accept a submission using my choices at the time, C# or VB.NET.
 
